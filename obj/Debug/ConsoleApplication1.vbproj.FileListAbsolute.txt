@@ -1,0 +1,10 @@
+C:\Users\asus\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\asus\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\asus\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\asus\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+C:\Users\asus\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Resources.resources
+C:\Users\asus\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
+C:\Users\asus\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\asus\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.xml
+C:\Users\asus\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
